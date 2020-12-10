@@ -2,7 +2,7 @@
 
 . Music player built through watching a tutorial
 
-# App utalizes
+# App utilizes
 
 . Use state and use Effect 
 . Props and prop Drilling
